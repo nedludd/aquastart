@@ -46,7 +46,7 @@ Start her up and make sure she works.  This will also create the
 default initialization and customization files, which we'll use later.
 
 For details see the
-[Aquamacs Developer page](http://aquamacs.org/development.shtml) or
+[Aquamacs Developer](http://aquamacs.org/development.shtml) page or
 the
 [Building Aquamacs](http://www.emacswiki.org/cgi-bin/wiki/BuildingAquamacs)
 on EmacsWiki
