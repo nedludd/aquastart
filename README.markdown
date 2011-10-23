@@ -69,7 +69,7 @@ Emacs/Preferences.el`:
 
 ;; Set the base directory for Aquastart
 (setq aquastart-dir (concat (file-name-directory
-                    (or (buffer-file-name) load-file-name)) "/aquastart"))
+                    (or (buffer-file-name) load-file-name)) "aquastart/"))
 
 ;; set up our various directories to load
 (add-to-list 'load-path aquastart-dir)

@@ -20,7 +20,7 @@
 ;;;; Set the base directory for Aquastart
 ;;(setq aquastart-dir (concat (file-name-directory
 ;;                    (or (buffer-file-name) load-file-name)
-;;) "aquastart"))
+;;) "aquastart/"))
 ;;;; set up our various directories to load
 ;;(add-to-list 'load-path aquastart-dir)
 ;;(require 'init)
