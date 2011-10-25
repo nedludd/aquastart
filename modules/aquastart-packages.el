@@ -13,7 +13,7 @@
 
 ;; These are the packages we want to start with
 (defvar prelude-packages
-  '(marmalade gist)
+  '(dired-single gist ido-ubiquitous marmalade smex)
   "The list of packages that should be installed at launch.")
 
 ;; Install em now!

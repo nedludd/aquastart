@@ -62,6 +62,7 @@
 (require 'aquastart-ui)
 (require 'aquastart-packages)
 (require 'aquastart-base)
+(require 'aquastart-defuns)
 (require 'aquastart-editor)
 (require 'aquastart-global-keybindings)
 
