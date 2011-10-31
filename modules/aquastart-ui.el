@@ -35,6 +35,8 @@ instead of Emacs's default theme."
   (scroll-bar-mode -1)
   ;; the blinking cursor is nothing, but an annoyance
   (blink-cursor-mode -1)
+  ;; disable the tab bar
+  (tabbar-mode -1)
   ;; disable startup screen
   (setq inhibit-startup-screen t))
 

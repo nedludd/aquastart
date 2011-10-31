@@ -364,3 +364,5 @@ there's a region, all lines that region covers will be duplicated."
       (set-window-start w1 s2)
       (set-window-start w2 s1)))
   (other-window 1))
+
+(provide 'aquastart-defuns)
